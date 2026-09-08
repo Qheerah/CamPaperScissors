@@ -1,0 +1,15 @@
+# Python / Environment
+__pycache__/
+*.py[cod]
+.venv/
+python3.12/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Large Model / Data Files (Optional: keep these tracked if you want them on GitHub)
+# *.pkl
+# *.task
+# *.csv
