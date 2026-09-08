@@ -18,3 +18,4 @@ python3.12/
 *.csv
 *.task
 *.py[cod]
+.ipynb_checkpoints/
